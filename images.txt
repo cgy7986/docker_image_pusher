@@ -1,3 +1,1 @@
 --platform=linux/arm64 alist
---platform=linux/arm64 cp0204/quark-auto-save
---platform=linux/arm64 summary/qinglong
